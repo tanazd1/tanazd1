@@ -2,6 +2,8 @@
 
 I design and develop **high-efficiency terminal utilities** for Android using Termux. My focus is on **automation, lightweight scripts, and low-level system tools** optimized for performance and portability.  
 
+if you want to see my main projects, see them [here.](https://github.com/tanazd2)
+
 ---
 
 ## Projects
